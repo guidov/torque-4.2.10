@@ -1,0 +1,21 @@
+site_allow_u.o: site_allow_u.c /usr/include/stdc-predef.h \
+ ../../../src/include/license_pbs.h ../../../src/include/pbs_config.h \
+ ../../../src/include/portability.h ../../../src/include/pbs_error.h \
+ ../../../src/include/pbs_constants.h ../../../src/include/license_pbs.h \
+ ../../../src/include/pbs_error_db.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/license_pbs.h:
+
+../../../src/include/pbs_config.h:
+
+../../../src/include/portability.h:
+
+../../../src/include/pbs_error.h:
+
+../../../src/include/pbs_constants.h:
+
+../../../src/include/license_pbs.h:
+
+../../../src/include/pbs_error_db.h:

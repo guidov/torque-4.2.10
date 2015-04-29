@@ -1,0 +1,46 @@
+pbs_messages.lo: ../Liblog/pbs_messages.c /usr/include/stdc-predef.h \
+ ../../../src/include/pbs_config.h /usr/include/string.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h \
+ /usr/include/xlocale.h ../../../src/include/portability.h \
+ ../../../src/include/pbs_error.h ../../../src/include/pbs_constants.h \
+ ../../../src/include/license_pbs.h ../../../src/include/pbs_error_db.h \
+ ../../../src/include/pbs_batchreqtype_db.h \
+ ../../../src/include/pbs_error_db.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/pbs_config.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/4.8/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+../../../src/include/portability.h:
+
+../../../src/include/pbs_error.h:
+
+../../../src/include/pbs_constants.h:
+
+../../../src/include/license_pbs.h:
+
+../../../src/include/pbs_error_db.h:
+
+../../../src/include/pbs_batchreqtype_db.h:
+
+../../../src/include/pbs_error_db.h:

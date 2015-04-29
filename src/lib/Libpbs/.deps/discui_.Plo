@@ -1,0 +1,6 @@
+discui_.lo: ../Libdis/discui_.c /usr/include/stdc-predef.h \
+ ../../../src/include/pbs_config.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/pbs_config.h:

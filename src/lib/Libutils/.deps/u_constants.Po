@@ -1,0 +1,6 @@
+u_constants.o: u_constants.c /usr/include/stdc-predef.h \
+ ../../../src/include/alps_constants.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/include/alps_constants.h:

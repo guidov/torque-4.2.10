@@ -1,0 +1,17 @@
+#%Module######################################################################
+##
+## Torque Module
+##
+proc ModulesHelp { } {
+puts stderr " TORQUE modulefile"
+}
+set sys [uname sysname]
+set host [uname nodename]
+set os [uname release]
+set version 4.2.10
+set prefix /usr/local/torque
+set exec_prefix /usr/local/torque
+
+prepend-path PATH ${exec_prefix}/bin
+prepend-path PATH ${exec_prefix}/sbin
+prepend-path MANPATH ${prefix}/share/man

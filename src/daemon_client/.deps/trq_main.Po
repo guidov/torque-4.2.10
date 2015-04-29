@@ -1,0 +1,8 @@
+trq_main.o: trq_main.c /usr/include/stdc-predef.h \
+ ../../src/include/license_pbs.h trq_auth_daemon.h
+
+/usr/include/stdc-predef.h:
+
+../../src/include/license_pbs.h:
+
+trq_auth_daemon.h:
