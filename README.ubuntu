@@ -1,0 +1,1 @@
+Tcl 8.5 deprecated interp->result and Tcl 8.6 removed it.
